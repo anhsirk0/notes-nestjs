@@ -10,6 +10,16 @@
 ## Description
 Nestjs backend for simple notes app with sqlite database.
 
+Todos
+- [x] auth/signin
+- [x] auth/signup
+- [ ] notes/add
+- [ ] notes/update
+- [ ] notes/delete
+- [ ] notes/id/1234
+- [ ] notes/all
+
+
 ## Installation
 
 ```bash
